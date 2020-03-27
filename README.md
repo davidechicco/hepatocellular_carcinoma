@@ -6,8 +6,7 @@ HCC Survival dataset on the University of California Irvine Machine Learning Rep
 [https://archive.ics.uci.edu/ml/datasets/HCC+Survival](https://archive.ics.uci.edu/ml/datasets/HCC+Survival)
 
 ### Requirements
-Software: [R platform](https://www.r-project.org). 
-Software packages: `easypackages`,  `randomForest` , `caret` , `mltools` , `MLmetrics`
+Software: [R platform](https://www.r-project.org) with packages: `easypackages`,  `randomForest`, `caret`, `mltools`, `MLmetrics`
 
 Suggested operating system: [Linux Ubuntu](https://ubuntu.com/)
 
