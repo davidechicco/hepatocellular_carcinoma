@@ -8,7 +8,7 @@ HCC Survival dataset on the University of California Irvine Machine Learning Rep
 ### Requirements
 Software: [R platform](https://www.r-project.org) with packages: `easypackages`,  `randomForest`, `caret`, `mltools`, `MLmetrics`
 
-Suggested operating system: [Linux Ubuntu](https://ubuntu.com/)
+Operating systems: any Linux, any Microsoft Windows, any Mac operating system running R.
 
 ### Execution
 To analyze the dataset for survival prediction and for feature ranking, clone/download this GitHub repository, and visit the `CODE_SUBMISSION` folder. 
