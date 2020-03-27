@@ -23,6 +23,6 @@ For the feature ranking, type on the shell termal console:
 The program will print the results into files that you will find in the `RIS` folder.
 
 ## Contacts
-For any information, please contact [Davide Chicco](http://www.davidechicco.it) at __davidechicco(AT)davidechicco.it__ or [Luca Oneto](http://www.lucaoneto.com) at __luca.oneto(AT)gmail.com__
+For any information, please contact [Davide Chicco](http://www.davidechicco.it) at *davidechicco(AT)davidechicco.it* or [Luca Oneto](http://www.lucaoneto.com) at *luca.oneto(AT)gmail.com*
 
 
