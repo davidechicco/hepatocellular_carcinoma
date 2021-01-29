@@ -22,6 +22,11 @@ For the feature ranking, type on the shell termal console:
 
 The program will print the results into files that you will find in the `RIS` folder.
 
+### Article
+Additional information about this project is available in the following peer-reviewed published article:
+
+> Davide Chicco, Luca Oneto. "[Computational intelligence identifies alkaline phosphatase (ALP), alpha-fetoprotein (AFP), and hemoglobin levels as most predictive survival factors for hepatocellular carcinoma](https://doi.org/10.1177/1460458220984205)". Health Informatics Journal 27(1), pages 1-26, 2021.
+
 ## Contacts
 For any information, please contact [Davide Chicco](http://www.davidechicco.it) at *davidechicco(AT)davidechicco.it* or [Luca Oneto](http://www.lucaoneto.com) at *luca.oneto(AT)gmail.com*
 
